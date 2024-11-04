@@ -126,6 +126,9 @@ input,
 textarea {
   font-weight: 300;
 }
+textarea {
+  font-family: inherit!important;
+}
 
 .slate-a {
   text-decoration: underline;
